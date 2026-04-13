@@ -1,10 +1,10 @@
-# 🛒 TechStore — Modelagem de Banco de Dados
+**TechStore — Modelagem de Banco de Dados**
 
 Projeto de modelagem de banco de dados para um sistema de e-commerce de tecnologia.
 
 ---
 
-## 📌 Sobre
+1. Sobre
 
 O **TechStore** é uma proposta de banco de dados relacional para uma loja virtual que vende produtos como notebooks, celulares e acessórios.
 
@@ -18,7 +18,7 @@ O sistema contempla funcionalidades como:
 
 ---
 
-## 🧠 Modelagem de Dados
+2. Modelagem de Dados
 
 O projeto foi desenvolvido seguindo as etapas:
 
@@ -30,14 +30,14 @@ A estrutura do banco segue a **3ª Forma Normal (3FN)**, garantindo consistênci
 
 ---
 
-## ⚙️ Tecnologias
+3. Tecnologias
 
 - MySQL  
 - MySQL Workbench  
 
 ---
 
-## ▶️ Como executar
+4. Como executar
 
 1. Abra o MySQL Workbench  
 2. Execute o arquivo `techstore_schema.sql`  
@@ -46,7 +46,7 @@ A estrutura do banco segue a **3ª Forma Normal (3FN)**, garantindo consistênci
 
 ---
 
-## 📊 Consultas (QA)
+5. Consultas (QA)
 
 Foram desenvolvidas queries SQL para responder questões de negócio, como:
 
@@ -58,6 +58,6 @@ Foram desenvolvidas queries SQL para responder questões de negócio, como:
 
 ---
 
-## 🎓 Contexto
+6. Contexto
 
 Projeto desenvolvido para a disciplina de **Banco de Dados II** (PUC-SP).
