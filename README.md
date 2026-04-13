@@ -39,10 +39,10 @@ A estrutura do banco segue a **3ª Forma Normal (3FN)**, garantindo consistênci
 
 4. Como executar
 
-1. Abra o MySQL Workbench  
-2. Execute o arquivo `techstore_schema.sql`  
-3. O banco será criado com dados de teste  
-4. Execute as queries para análise  
+- Abra o MySQL Workbench
+- Execute o arquivo `techstore_schema.sql`
+- O banco será criado com dados de teste
+- Execute as queries para análise  
 
 ---
 
